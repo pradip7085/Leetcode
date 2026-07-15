@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradip7085/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradip7085/Leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
