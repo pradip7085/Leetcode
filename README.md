@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pradip7085/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/pradip7085/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradip7085/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pradip7085/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pradip7085/Leetcode/tree/master/0283-move-zeroes) |
 | [1046-last-stone-weight](https://github.com/pradip7085/Leetcode/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
