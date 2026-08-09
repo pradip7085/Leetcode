@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pradip7085/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
