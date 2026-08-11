@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pradip7085/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradip7085/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pradip7085/Leetcode/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pradip7085/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradip7085/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradip7085/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
 | ------- |
