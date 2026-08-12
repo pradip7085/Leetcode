@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pradip7085/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/pradip7085/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradip7085/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pradip7085/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pradip7085/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pradip7085/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pradip7085/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradip7085/Leetcode/tree/master/0283-move-zeroes) |
 | [1046-last-stone-weight](https://github.com/pradip7085/Leetcode/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradip7085/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pradip7085/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/pradip7085/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradip7085/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
@@ -91,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/pradip7085/Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/pradip7085/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/pradip7085/Leetcode/tree/master/0183-customers-who-never-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pradip7085/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
